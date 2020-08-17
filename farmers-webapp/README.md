@@ -10,7 +10,7 @@ ___
 - npm start
 
 **Caso necessite alterar a porta padrão que a aplicação está iniciando, execute o comando.**
-- npm start --port <port>
+- npm start --port :number
 
 **Para fazer o build da aplicação execute o seguinte comando, feito vai ser criado uma pasta chamada 'dist/farmers-webapp' no diretório raiz do projeto, contendo os arquivos para distribuição.**
 - ng build

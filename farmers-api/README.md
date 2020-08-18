@@ -38,7 +38,7 @@ ___
             "street": "Rua B",
             "address": "311",
             "state": "GO",
-            "country": null
+            "country": null```
         }
     },
     {
@@ -69,4 +69,4 @@ ___
             "country": "Brazil"
         }
     }
-]```
+]

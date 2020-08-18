@@ -7,5 +7,6 @@ ___
 > Caso necessite alterar a porta padrão que o servidor está iniciando acesso o arquivo 'config/default.json
 
 **Para rodar os testes, execute o seguinte comando no diretório raiz do projeto.**
+- npm install jest -g
 - npm test
 ___
